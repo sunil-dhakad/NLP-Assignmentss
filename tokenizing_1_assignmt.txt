@@ -1,0 +1,7 @@
+﻿Designed by Chris Lattner, the creator of the Swift programming language and LLVM Compiler Infrastructure, Mojo presents a novel solution for Python’s speed constraints. Despite its popularity, Python often lags in performance, making languages like C and C++ preferable for high-speed, high-performance tasks. In response, Mojo was born to integrate Python’s usability with C’s performance.
+But what does this mean for the average web developer? Mojo has an astonishing 35,000x speed advantage over Python, substantially outpacing competitors like PyPy, Scala, and C++.
+
+This leap in AI programming opens up new possibilities for developing high-performance, AI-powered web applications without sacrificing the familiarity of Python’s syntax and extensive libraries.
+In Mojo, you can build safe high-level abstractions on top of low-level data layout controls with the struct type. In programming, a struct is a data type that allows for the combination of different kinds of data items, but which can be manipulated as a single unit.
+In the Mojo programming language, struct types are a bit similar to classes in other object-oriented languages. They can have methods and properties, but unlike classes, structs in Mojo are statically bound at compile time, and they are directly inserted or “inlined” into their container without needing a separate memory reference, or “indirection.”
+
